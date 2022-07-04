@@ -1,0 +1,23 @@
+.inicio{
+    margin-left: 30px;
+    width: 280px;
+    padding: 3px;
+    display: flex;
+    border-top: 1px solid darkgrey;
+ }
+
+ .pag{
+    justify-content: center;
+ }
+
+ .numeracao{
+     font-family: Helvetica;
+     margin-top: 45px;
+     color: darkgray;
+ }
+
+ .titulo{
+     font-family: Helvetica;
+     margin-left: 30px;
+     color: #cc0000;
+ }
